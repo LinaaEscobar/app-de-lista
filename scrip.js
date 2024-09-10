@@ -1,5 +1,3 @@
-javascript
- Copiar
 function addTask() {
     const taskInput = document.getElementById("taskInput");
     const taskText = taskInput.value.trim();
