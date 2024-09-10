@@ -17,3 +17,5 @@ li {
     text-decoration: line-through;
     color: #666;
 }
+.danger {background-color: #a9cce3;} 
+.danger:hover {background: #a9cce3;}
