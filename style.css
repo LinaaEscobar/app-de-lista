@@ -1,4 +1,4 @@
-body {
+body{  
     font-family: Arial, sans-serif;
     text-align: center;
     background-color:#cb9bd7;
@@ -16,6 +16,4 @@ li {
 .completed {
     text-decoration: line-through;
     color: #666;
-    .danger {background-color: #a9cce3;} 
-.danger:hover {background: #a9cce3;}
 }
